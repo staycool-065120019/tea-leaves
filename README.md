@@ -4,7 +4,7 @@
 
 # Bagaimana cara mengedit kode ini ?
 
-Ada beberapa cara untuk mengedit aplikasi Anda.
+Ada beberapa cara untuk mengedit edit dan jalankannya.
 
 **Gunakan IDE pilihan Anda**
 
