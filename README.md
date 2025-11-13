@@ -54,3 +54,4 @@ Proyek ini dibangun dengan:
 - shadcn-ui
 - Tailwind CSS
 
+Powered by @ staycool-065120019
