@@ -1,58 +1,52 @@
-# Welcome to your Lovable project
+# Selamat datang di Sistem Identifikasi Penyakit Tanaman Daun Teh #
 
-## Project info
+# Info 
 
-**URL**: https://lovable.dev/projects/623d0c46-4c03-4bf5-9f0d-64381588d34f
+# Bagaimana cara mengedit kode ini ?
 
-## How can I edit this code?
+Ada beberapa cara untuk mengedit aplikasi Anda.
 
-There are several ways of editing your application.
+**Gunakan IDE pilihan Anda**
 
-**Use Lovable**
+"Jika Anda ingin bekerja secara lokal menggunakan IDE Anda sendiri, Anda dapat mengkloning repositori ini dan mengirimkan perubahan untuk pengembangan "
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/623d0c46-4c03-4bf5-9f0d-64381588d34f) and start prompting.
+Install persyaratannya yaitu: menginstal Node.js & npm 
+[instal dengan nvm]
+(https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Ikuti langkah-langkah berikut:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Langkah 1: Kloning repositori menggunakan URL Git proyek.
+git clone <URL_GIT_ANDA>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Langkah 2: Arahkan ke direktori proyek.
+cd (NAMA PROYEK) atau bisa clone repository >di https://github.com/stayhigh1917/tea-leaves.git
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Langkah 3: Instal dependensi yang diperlukan.
+# npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+# Langkah 4: Jalankan server pengembangan dengan pemuatan ulang otomatis dan pratinjau instan.
+# npm run dev
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+*Edit berkas langsung di GitHub*
 
-**Use GitHub Codespaces**
+- Arahkan ke berkas yang diinginkan.
+- Klik tombol "Edit" (ikon pensil) di kanan atas tampilan berkas.
+- Buat perubahan dan komit perubahan tersebut.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Gunakan GitHub Codespaces**
 
-## What technologies are used for this project?
+- Buka halaman utama repositori Anda.
+- Klik tombol "Kode" (tombol hijau) di pojok kanan atas.
+- Pilih tab "Codespaces".
+- Klik "Codespace Baru" untuk meluncurkan lingkungan Codespace baru.
+- Edit berkas langsung di dalam Codespace dan lakukan commit serta push perubahan Anda setelah selesai.
 
-This project is built with:
+# Teknologi apa yang digunakan untuk proyek ini?
+
+Proyek ini dibangun dengan:
 
 - Vite
 - TypeScript
@@ -60,14 +54,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/623d0c46-4c03-4bf5-9f0d-64381588d34f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
